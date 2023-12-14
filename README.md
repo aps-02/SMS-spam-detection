@@ -37,7 +37,7 @@ This project, developed in November 2023, focuses on building an SMS spam detect
 To get started with the project, follow these steps:
 
 ```bash
-git clone https://github.com/aps-02/sms_spam-detection.git
-cd sms_spam-detection
+git clone https://github.com/aps-02/sms-spam-detection.git
+cd sms-spam-detection
 
 flask run
